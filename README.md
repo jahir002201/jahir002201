@@ -13,9 +13,6 @@ I love to invent and build innovative solutions. Currently, I’m mastering **Re
 - **Full-Stack Development**
 - **Problem Solving & Optimization**
 
-## 📈 GitHub Stats
-![Jahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahir002201&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
 - [Portfolio](https://my-portfolio-smoky-xi-63.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/jahirul12/)
