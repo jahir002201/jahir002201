@@ -17,6 +17,7 @@ I love to invent and build innovative solutions. Currently, I’m mastering **Re
 - [Portfolio](https://my-portfolio-smoky-xi-63.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/jahirul12/)
 - [Codeforces](https://codeforces.com/profile/jahirul002201)
+- [Codechef](https://www.codechef.com/users/jahirul002201)
 - [BeeCrowd](https://judge.beecrowd.com/en/profile/654592)
 - [LeetCode](https://leetcode.com/u/jahir002201/)
 - [Hackerrank](https://www.hackerrank.com/profile/jahirul002201)
