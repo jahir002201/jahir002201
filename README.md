@@ -71,8 +71,6 @@ I design **scalable, maintainable, secure, and optimized applications** using **
 
 ## 📈 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jahir002201&show_icons=true&theme=radical" height="140" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahir002201&layout=compact&theme=radical" height="140" />
 <img src="https://streak-stats.demolab.com?user=jahir002201&theme=radical" height="140" />
 </div>
 
