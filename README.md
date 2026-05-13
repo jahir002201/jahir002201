@@ -1,6 +1,6 @@
 # Md Jahirul Islam
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Django+%7C+DRF+%7C+React+%7C+PostgreSQL;Backend+Focused+Engineer;Scalable+Web+Applications;Clean+Architecture+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Django+%7C+DRF+%7C+React+%7C+PostgreSQL;Backend+Focused+Engineer;Scalable+Web+Applications;Clean+Architecture+Enthusiast)
 
 ### Full-Stack Developer specializing in Django and REST API development, building scalable applications with Django, React, and PostgreSQL.
 
